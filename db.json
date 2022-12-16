@@ -1,5 +1,5 @@
-{
-    "breweries":[
+
+    [
         {
         "id": "10-56-brewing-company-knox",
         "name": "10-56 Brewing Company",
@@ -381,4 +381,4 @@
         "created_at": "2022-11-11T05:07:58.723Z"
         }
         ]
-}
+
